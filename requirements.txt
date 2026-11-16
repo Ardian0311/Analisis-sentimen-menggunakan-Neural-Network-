@@ -3,8 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
+wordcloud
 scikit-learn
-tensorflow
-Sastrawi
-nltk
 openpyxl
