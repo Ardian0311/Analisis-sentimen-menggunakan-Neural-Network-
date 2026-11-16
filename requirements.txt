@@ -4,4 +4,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-xgboost
+tensorflow
+Sastrawi
+nltk
+openpyxl
